@@ -1,0 +1,6 @@
+@OrederService_HostAddress = http://localhost:5053
+
+GET {{OrederService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
