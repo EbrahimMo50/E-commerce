@@ -13,6 +13,8 @@ the apigateway may require some adjustment to the ports based on the deployment
 
 k8s and docker failed because current system doesnt now allow port binding (no connection to sql/ nodeports binding)
 
+depolyment to docker and k8s is possible current state is halted after deploying the user service other service require depolyment configuration and a nodeport
+
 developing the application on forks requires no further commands all the migrations are automated with seeding
 
 note that all services utillize http 
