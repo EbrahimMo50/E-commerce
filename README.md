@@ -1,4 +1,4 @@
-# E-commerece
+# E-commerece v1.0
  a microservice prototype 
 
 current state of the app
