@@ -1,5 +1,8 @@
 # E-commerece
  a microservice prototype 
+
+current state of the app
+ 
 this hot mess of application requires alot of work to be valid corner stone at least
 
 pathing of the services is messed up since the set up from the beggining was faulty
