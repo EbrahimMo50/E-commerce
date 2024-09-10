@@ -22,3 +22,5 @@ note that all services utillize http
 async messaging between serivices is not implemented requires a message bus and logic implemnation, system running on sync consider running async for further decoupling
 
 system designed following the repository design pattern each service has its repo with the interface
+
+the app has 3 services with api gateway (ocelot) as 4 applications (product/order/user)
