@@ -24,3 +24,5 @@ async messaging between serivices is not implemented requires a message bus and 
 system designed following the repository design pattern each service has its repo with the interface
 
 the app has 3 services with api gateway (ocelot) as 4 applications (product/order/user)
+
+not all services are injected some of them are instantiated in the controller / the httpclient in the services is also not injected
